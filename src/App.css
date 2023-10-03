@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.inputData{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+ 
+}
+
+.inputData .inputfield{
+  border-radius: 15%;
+  padding: 0.567rem;
+}
+
+.location{
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10rem;
+}
+.temp{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.tempmin_max{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
